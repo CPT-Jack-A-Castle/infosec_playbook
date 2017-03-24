@@ -1,2 +1,2 @@
-# infosec_playbook
-InfoSec playbook for course DPI911 - Incidence Response. 
+# InfoSec Playbook 
+## Course DPI911 - Incidence Response. 

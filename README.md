@@ -8,7 +8,6 @@
 
 Unique ID  | Event Source | Abbreviation|
 ------------:|:---------------:|---------------:
-
 100000-199999 | DHCP Server | DHCP
 
 200000-299999 | Active Directory | AD

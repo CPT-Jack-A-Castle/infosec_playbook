@@ -18,6 +18,7 @@ Unique ID  | Event Source | Abbreviation|
 
 
 Categories
+
 -Suspect: Indication of potentially malicious activity, requires investigation to determine is malicious or not.
 -Policy: Violation of security policy that requires investigation.
 -Malware: Indicators of malicious files and activity

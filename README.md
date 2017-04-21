@@ -10,11 +10,17 @@ Unique ID  | Event Source | Abbreviation|
 ------------:|:---------------:|---------------:
 
 100000-199999 | DHCP Server | DHCP
+
 200000-299999 | Active Directory | AD
+
 300000-399999 | General Network Attacks | NET
+
 400000-499999 | File Servers | FTP
+
 500000-599999 | DNS Servers | DNS 
+
 600000-699999 | VOIP Serer | VOIP
+
 800000-899999 | Web Server | WEB
 
 
